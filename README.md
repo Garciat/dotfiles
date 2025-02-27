@@ -7,6 +7,6 @@ Requires:
 Install:
 
 ```sh
-stow -t ~ *
+stow -t ~ */
 ```
 
